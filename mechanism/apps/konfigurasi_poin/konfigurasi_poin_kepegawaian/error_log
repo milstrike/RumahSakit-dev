@@ -1,0 +1,8 @@
+[29-Nov-2015 23:07:31 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 23:07:52 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/class/logout.php on line 31
+[29-Nov-2015 23:07:53 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 23:07:53 UTC] PHP Notice:  Undefined index: nama in /home/u6799722/public_html/rumahsakit-dev/mechanism/apps/konfigurasi_poin/konfigurasi_poin_kepegawaian/index.php on line 53
+[29-Nov-2015 23:07:53 UTC] PHP Notice:  Undefined index: jabatan in /home/u6799722/public_html/rumahsakit-dev/mechanism/apps/konfigurasi_poin/konfigurasi_poin_kepegawaian/index.php on line 61
+[29-Nov-2015 23:07:53 UTC] PHP Notice:  Undefined index: telepon in /home/u6799722/public_html/rumahsakit-dev/mechanism/apps/konfigurasi_poin/konfigurasi_poin_kepegawaian/index.php on line 69
+[29-Nov-2015 23:07:53 UTC] PHP Notice:  Undefined index: umask in /home/u6799722/public_html/rumahsakit-dev/data/view/kepegawaianView.php on line 22
+[29-Nov-2015 23:07:53 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/view/kepegawaianView.php on line 25

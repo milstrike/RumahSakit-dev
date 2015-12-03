@@ -1,0 +1,62 @@
+[29-Nov-2015 01:59:33 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 02:00:08 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 02:02:46 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 02:04:05 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 02:04:17 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 02:04:23 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/class/logout.php on line 31
+[29-Nov-2015 02:04:24 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 02:04:24 UTC] PHP Notice:  Undefined index: nama in /home/u6799722/public_html/rumahsakit-dev/mechanism/landing/index.php on line 50
+[29-Nov-2015 02:04:24 UTC] PHP Notice:  Undefined index: jabatan in /home/u6799722/public_html/rumahsakit-dev/mechanism/landing/index.php on line 58
+[29-Nov-2015 02:04:24 UTC] PHP Notice:  Undefined index: telepon in /home/u6799722/public_html/rumahsakit-dev/mechanism/landing/index.php on line 66
+[29-Nov-2015 02:04:24 UTC] PHP Notice:  Undefined index: role in /home/u6799722/public_html/rumahsakit-dev/data/view/userMenu.php on line 20
+[29-Nov-2015 02:20:31 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 02:22:45 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 02:22:50 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 02:22:55 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 02:23:50 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 02:25:29 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 02:25:38 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 02:29:25 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 07:10:11 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 07:10:31 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 07:11:15 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 07:13:21 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 07:13:21 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 07:13:45 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 07:13:57 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 07:14:57 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 07:15:03 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 07:15:28 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 07:15:44 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 07:15:56 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 07:16:23 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 07:17:19 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 07:18:42 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 07:19:05 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 07:19:20 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/class/logout.php on line 31
+[29-Nov-2015 07:19:20 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 07:19:20 UTC] PHP Notice:  Undefined index: nama in /home/u6799722/public_html/rumahsakit-dev/mechanism/landing/index.php on line 50
+[29-Nov-2015 07:19:20 UTC] PHP Notice:  Undefined index: jabatan in /home/u6799722/public_html/rumahsakit-dev/mechanism/landing/index.php on line 58
+[29-Nov-2015 07:19:20 UTC] PHP Notice:  Undefined index: telepon in /home/u6799722/public_html/rumahsakit-dev/mechanism/landing/index.php on line 66
+[29-Nov-2015 07:19:20 UTC] PHP Notice:  Undefined index: role in /home/u6799722/public_html/rumahsakit-dev/data/view/userMenu.php on line 20
+[29-Nov-2015 07:35:58 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 07:36:10 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 07:37:59 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 07:41:56 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 07:42:21 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 07:43:44 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 23:02:05 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 23:03:12 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 23:03:24 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 23:03:25 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/class/logout.php on line 31
+[29-Nov-2015 23:03:26 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 23:03:26 UTC] PHP Notice:  Undefined index: nama in /home/u6799722/public_html/rumahsakit-dev/mechanism/landing/index.php on line 50
+[29-Nov-2015 23:03:26 UTC] PHP Notice:  Undefined index: jabatan in /home/u6799722/public_html/rumahsakit-dev/mechanism/landing/index.php on line 58
+[29-Nov-2015 23:03:26 UTC] PHP Notice:  Undefined index: telepon in /home/u6799722/public_html/rumahsakit-dev/mechanism/landing/index.php on line 66
+[29-Nov-2015 23:03:26 UTC] PHP Notice:  Undefined index: role in /home/u6799722/public_html/rumahsakit-dev/data/view/userMenu.php on line 20
+[29-Nov-2015 23:03:36 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 23:03:41 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 23:04:25 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 23:05:26 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 23:05:50 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 23:06:33 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34

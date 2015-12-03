@@ -1,0 +1,14 @@
+[29-Nov-2015 07:42:06 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 23:02:18 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 23:02:50 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/tambahDaftarKepanitiaan.php on line 35
+[29-Nov-2015 23:03:51 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/editDaftarKepanitiaan.php on line 36
+[29-Nov-2015 23:04:44 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/deleteDaftarKepanitiaan.php on line 27
+[29-Nov-2015 23:05:14 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/class/logout.php on line 31
+[29-Nov-2015 23:05:15 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 23:05:15 UTC] PHP Notice:  Undefined index: nama in /home/u6799722/public_html/rumahsakit-dev/mechanism/apps/daftar_kepanitiaan/index.php on line 54
+[29-Nov-2015 23:05:15 UTC] PHP Notice:  Undefined index: jabatan in /home/u6799722/public_html/rumahsakit-dev/mechanism/apps/daftar_kepanitiaan/index.php on line 62
+[29-Nov-2015 23:05:15 UTC] PHP Notice:  Undefined index: telepon in /home/u6799722/public_html/rumahsakit-dev/mechanism/apps/daftar_kepanitiaan/index.php on line 70
+[29-Nov-2015 23:05:15 UTC] PHP Notice:  Undefined index: umask in /home/u6799722/public_html/rumahsakit-dev/data/view/daftarKepanitiaanView.php on line 24
+[29-Nov-2015 23:05:15 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/view/daftarKepanitiaanView.php on line 27
+[29-Nov-2015 23:05:15 UTC] PHP Notice:  Undefined index: umask in /home/u6799722/public_html/rumahsakit-dev/data/view/konfirmasiAnggotaPanitia.php on line 22
+[29-Nov-2015 23:05:15 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/view/konfirmasiAnggotaPanitia.php on line 25

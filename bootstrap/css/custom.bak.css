@@ -1,0 +1,210 @@
+/* 
+ * Copyright (C) 2015 milstrike
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+@font-face{
+    font-family: "Segoe UI";
+    src: url("../../assets/fonts/segoeuil.ttf") format("truetype");
+}
+
+body{
+    font-family: 'Segoe UI', Fallback, sans-serif;
+}
+
+.lineClass{
+    border-color: #b3b3b3;
+    border-width: thin;
+    border-style: inset;
+}
+
+.textA{
+    padding-top: 25px; 
+    margin-left: -30px;
+    font-size: 12px; 
+    text-align: left;
+}
+
+.formAi{ 
+    height: 25px;
+    width: 300px;
+}
+
+.boxMain{
+    background-color: #fcfcfc; 
+    border-radius: 5px;
+    box-shadow: 8px 8px 5px #888888;
+}
+
+.boxA{
+    height: 300px;
+}
+
+.boxB{
+    background: #ff3019; /* Old browsers */
+    background: -moz-linear-gradient(top,  #ff3019 0%, #cf0404 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff3019), color-stop(100%,#cf0404)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #ff3019 0%,#cf0404 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #ff3019 0%,#cf0404 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #ff3019 0%,#cf0404 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #ff3019 0%,#cf0404 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3019', endColorstr='#cf0404',GradientType=0 ); /* IE6-9 */    
+    border-radius: 5px; 
+    padding: 5px; 
+    color: #fff;
+}
+
+.contA{
+    text-align: center;
+    font-size: 12px;
+    padding-top: 20px;
+}
+
+.spanErrorA{
+    font-size: 10px;
+    text-align: left;
+    
+}
+
+.spanErrorB{
+    font-size: 15px;
+    text-align: left;
+    
+}
+
+.footerGeneral{
+    text-align: center;
+    color: #b3b3b3;
+    font-style: italic;
+    font-size: 12px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    line-height: 1;
+}
+
+.bodyBackground{
+    background-image: url("../../assets/bg.jpg"); 
+    background-repeat: repeat;
+}
+
+.panelSide{
+    background-color: #ffffff; 
+    border-radius: 5px;
+    height: 300px;
+    width: min-content;
+    position: fixed;
+}
+
+.panelNew{
+    padding: 5px;
+    margin: 5px; 
+}
+
+.boxBA{
+    background: #ff3019; /* Old browsers */
+    background: -moz-linear-gradient(top,  #ff3019 0%, #cf0404 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff3019), color-stop(100%,#cf0404)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #ff3019 0%,#cf0404 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #ff3019 0%,#cf0404 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #ff3019 0%,#cf0404 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #ff3019 0%,#cf0404 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3019', endColorstr='#cf0404',GradientType=0 ); /* IE6-9 */    
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px; 
+    color: #fff;
+}
+
+.boxBC{
+    margin:5px;
+}
+
+.boxLegend{
+    font-size:12px;
+}
+
+.firstColumn{
+    text-align: center;
+    vertical-align: middle;
+}
+
+.secondColumn{
+    padding-top: 40px;
+    text-align: center;
+    vertical-align: midle;
+}
+
+.anotherColumn{
+    text-align: justify;
+    vertical-align: middle;
+}
+
+.buttonLock{
+    position: relative;
+    bottom: -90px;   
+    right:   0;
+}
+
+.boxShadow{
+    box-shadow: 5px 5px 5px #888888;
+}
+
+.bigPanel{
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* unvisited link */
+a:link {
+    color: #000;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: darkmagenta;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #7ab5d3;
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: #000;
+    text-decoration: none;
+}
+
+legendStyle{
+    font-size: 12px;
+}
+
+#bigPanel{
+    min-height: 500px;
+}
+
+#theadBasic{
+    background-color: #5bc0de; 
+    color: #FFF; 
+    font-weight: bold;
+}
+
+#thead{
+    text-align: center;
+}

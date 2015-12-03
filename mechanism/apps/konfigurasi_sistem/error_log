@@ -1,0 +1,3 @@
+[29-Nov-2015 02:22:52 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 02:22:58 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 02:23:20 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34

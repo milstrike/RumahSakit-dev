@@ -1,0 +1,10 @@
+[29-Nov-2015 07:43:50 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 07:45:58 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/class/logout.php on line 31
+[29-Nov-2015 07:45:59 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 07:45:59 UTC] PHP Notice:  Undefined index: nama in /home/u6799722/public_html/rumahsakit-dev/mechanism/apps/form_ikukp/index.php on line 53
+[29-Nov-2015 07:45:59 UTC] PHP Notice:  Undefined index: jabatan in /home/u6799722/public_html/rumahsakit-dev/mechanism/apps/form_ikukp/index.php on line 61
+[29-Nov-2015 07:45:59 UTC] PHP Notice:  Undefined index: telepon in /home/u6799722/public_html/rumahsakit-dev/mechanism/apps/form_ikukp/index.php on line 69
+[29-Nov-2015 07:45:59 UTC] PHP Notice:  Undefined index: umask in /home/u6799722/public_html/rumahsakit-dev/data/view/masterIKUKPView.php on line 22
+[29-Nov-2015 07:45:59 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/view/masterIKUKPView.php on line 25
+[29-Nov-2015 23:03:43 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34
+[29-Nov-2015 23:04:23 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/basic.php on line 34

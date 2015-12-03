@@ -1,0 +1,4 @@
+[29-Nov-2015 02:24:49 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/view/optionRole.php on line 25
+[29-Nov-2015 07:10:19 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/view/optionRole.php on line 25
+[29-Nov-2015 07:10:43 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/view/optionRole.php on line 25
+[29-Nov-2015 07:36:59 UTC] PHP Deprecated:  mysql(): This function is deprecated; use mysql_query() instead in /home/u6799722/public_html/rumahsakit-dev/data/view/optionRole.php on line 25

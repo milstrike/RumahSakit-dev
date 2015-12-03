@@ -1,0 +1,55 @@
+<?php
+
+/* 
+ * Copyright (C) 2015 milstrike
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+//include "../my-conf.php";
+
+$counter = 1;
+$sql = "select * from data_pegawai ORDER BY data_pegawai.nama ASC";
+$query = mysql("u6799722_rumahsakit_dev", $sql);
+$rows = mysql_num_rows($query);
+if($rows > 0){
+    while($row = mysql_fetch_assoc($query)){
+        $id = $row["id"];
+        $nama = $row["nama"];
+        $nip = $row["nip"];
+        echo 
+            "
+            <div id='editPegawai".$counter."' class='modal hide'' tabindex='-1' role='dialog' aria-labelledby='editKepegawaian".$counter."' aria-hidden='true'>
+            <div class='modal-header' style='background-color: #149bdf;'>
+            <button type='button' class='close' data-dismiss='modal' aria-hidden='true'>&times;</button>
+            <h3 id='myModalLabel' style='color: #fff;'>Edit Kepegawaian</h3>
+            </div>
+            <div class='modal-body'>
+                <form class='form-horizontal' action='' method='post'>
+                                <div class='control-group'>
+                                    Apakah Anda ingin mengedit data Pegawai <strong>".$nama."</strong>?
+                                </div>
+                                <input id='id' name='id' type='text' class='uneditable-input' value='".$id."' style='display:none;'>
+                                <div class='control-group'>
+                                    <label class='control-label' for='submit'>&nbsp;</label>
+                                    <div class='controls'>
+                                        <button type='submit' id='submitEdit' name='submitEdit' class='btn btn-warning'><i class='icon-pencil icon-white'></i>&nbsp;<strong>Edit Data Pegawai</strong></button><br/>
+                                    </div>
+                                </div>
+                                    </form>
+            </div>
+            </div>";
+        $counter = $counter + 1;
+    }
+}

@@ -1,0 +1,345 @@
+Folder PATH listing
+Volume serial number is E1EE-C7D0
+D:.
+|   .gitattributes
+|   .gitignore
+|   .htaccess
+|   404.html
+|   deploy.txt
+|   deploy2.txt
+|   index.php
+|   
++---assets
+|   |   bg.jpg
+|   |   
+|   +---fonts
+|   |       segoeui.ttf
+|   |       segoeuib.ttf
+|   |       segoeuii.ttf
+|   |       segoeuil.ttf
+|   |       segoeuisl.ttf
+|   |       segoeuiz.ttf
+|   |       seguibl.ttf
+|   |       seguibli.ttf
+|   |       seguili.ttf
+|   |       seguisb.ttf
+|   |       seguisbi.ttf
+|   |       seguisli.ttf
+|   |       
+|   \---icon-uses
+|           bagian.png
+|           bantuan.png
+|           bobot.png
+|           gaji.png
+|           group.png
+|           ikiku.png
+|           ikip.png
+|           jabatan.png
+|           kepanitiaan.png
+|           laporan.png
+|           maintenance.png
+|           nama.png
+|           pajak.png
+|           pegawai.png
+|           plus.png
+|           poin.png
+|           satker.png
+|           telepon.png
+|           tool.png
+|           
++---bootstrap
+|   +---css
+|   |       bootstrap-responsive.css
+|   |       bootstrap-responsive.min.css
+|   |       bootstrap.back.css
+|   |       bootstrap.css
+|   |       bootstrap.min.css
+|   |       custom.bak.css
+|   |       custom.css
+|   |       navs.css
+|   |       
+|   +---img
+|   |       glyphicons-halflings-white.png
+|   |       glyphicons-halflings.png
+|   |       
+|   \---js
+|           bootstrap.js
+|           bootstrap.min.js
+|           custom.js
+|           jquery.js
+|           
++---class
+|       init.php
+|       initjs.php
+|       initTitle.php
+|       logout.php
+|       router.php
+|       
++---data
+|   |   auth.php
+|   |   basic.php
+|   |   createNewAccount.php
+|   |   deleteAccount.php
+|   |   deleteAnggota.php
+|   |   deleteDaftarKepanitiaan.php
+|   |   deleteEmergency.php
+|   |   deleteKelompok.php
+|   |   deleteKepanitiaan.php
+|   |   deleteKepegawaian.php
+|   |   deleteKoordinasi.php
+|   |   deleteMasaKerja.php
+|   |   deletePegawai.php
+|   |   deletePendidikan.php
+|   |   deletePenggajian.php
+|   |   deletePerangkat.php
+|   |   deletePerpajakan.php
+|   |   deleteResiko.php
+|   |   deleteSatker.php
+|   |   deleteSertifikasi.php
+|   |   deleteStruktural.php
+|   |   editAccount.php
+|   |   editDaftarKepanitiaan.php
+|   |   editEmergency.php
+|   |   editKelompok.php
+|   |   editKepanitiaan.php
+|   |   editKepegawaian.php
+|   |   editKoordinasi.php
+|   |   editMasaKerja.php
+|   |   editPendidikan.php
+|   |   editPenggajian.php
+|   |   editPerangkat.php
+|   |   editPerpajakan.php
+|   |   editResiko.php
+|   |   editRole.php
+|   |   editSatker.php
+|   |   editSertifikasi.php
+|   |   editStruktural.php
+|   |   my-conf.php
+|   |   pagingKepanitiaan.php
+|   |   resetPassword.php
+|   |   store.php
+|   |   tambahDaftarKepanitiaan.php
+|   |   tambahDetailKepanitiaan.php
+|   |   tambahEmergency.php
+|   |   tambahKelompok.php
+|   |   tambahKepanitiaan.php
+|   |   tambahKepegawaian.php
+|   |   tambahKoordinasi.php
+|   |   tambahMasaKerja.php
+|   |   tambahPegawai.php
+|   |   tambahPendidikan.php
+|   |   tambahPerangkat.php
+|   |   tambahResiko.php
+|   |   tambahSatker.php
+|   |   tambahSertifikasi.php
+|   |   tambahStruktural.php
+|   |   
+|   +---opt
+|   |       Date.php
+|   |       Kelompok.php
+|   |       Month.php
+|   |       Pendidikan.php
+|   |       Perangkat.php
+|   |       Satker.php
+|   |       Sertifikasi.php
+|   |       Struktural.php
+|   |       Year.php
+|   |       
+|   \---view
+|           daftarKepanitiaanView.php
+|           daftarKepanitiaanViewModal.php
+|           dataExtractor.php
+|           deleteAccountModal.php
+|           deleteDaftarKepanitiaanView.php
+|           deleteDetailAnggotaViewModal.php
+|           deleteEmergencyModal.php
+|           deleteKelompokModal.php
+|           deleteKepanitiaanModal.php
+|           deleteKepegawaianModal.php
+|           deleteKoordinasiModal.php
+|           deleteMasaKerjaModal.php
+|           deletePegawaiModal.php
+|           deletePendidikanModal.php
+|           deletePenggajianModal.php
+|           deletePerangkatModal.php
+|           deletePerpajakanModal.php
+|           deleteResikoModal.php
+|           deleteSatkerModal.php
+|           deleteSertifikasiModal.php
+|           deleteStrukturalModal.php
+|           detailKepanitiaanView.php
+|           editAccountViewModal.php
+|           editDaftarKepanitiaanViewModal.php
+|           editEmergencyViewModal.php
+|           editKelompokViewModal.php
+|           editKepanitiaanViewModal.php
+|           editKepegawaianViewModal.php
+|           editKoordinasiViewModal.php
+|           editMasaKerjaViewModal.php
+|           editPendidikanViewModal.php
+|           editPenggajianViewModal.php
+|           editPerangkatViewModal.php
+|           editPerpajakanViewModal.php
+|           editResikoViewModal.php
+|           editRoleViewModal.php
+|           editSatkerViewModal.php
+|           editSertifikasiViewModal.php
+|           editStrukturalViewModal.php
+|           emergencyView.php
+|           infoKepanitiaan.php
+|           kelompokView.php
+|           kepanitiaanView.php
+|           kepegawaianView.php
+|           konfirmasiAnggotaPanitia.php
+|           koordinasiView.php
+|           masaKerjaView.php
+|           optionEmergencyView.php
+|           optionRiskView.php
+|           optionRole.php
+|           pegawaiView.php
+|           pegawaiViewModal.php
+|           pendidikanView.php
+|           penggajianView.php
+|           perangkatView.php
+|           perpajakanView.php
+|           resetPasswordViewModal.php
+|           resikoView.php
+|           roleView.php
+|           satkerView.php
+|           sertifikasiView.php
+|           strukturalView.php
+|           tambahDaftarKepanitiaanViewModal.php
+|           tambahDetailKepanitiaanViewModal.php
+|           tambahEmergencyViewModal.php
+|           tambahKelompokViewModal.php
+|           tambahKepanitiaanViewModal.php
+|           tambahKepegawaianViewModal.php
+|           tambahKoordinasiViewModal.php
+|           tambahMasaKerjaViewModal.php
+|           tambahPendidikanViewModal.php
+|           tambahPerangkatViewModal.php
+|           tambahResikoViewModal.php
+|           tambahSatkerViewModal.php
+|           tambahSertifikasiViewModal.php
+|           tambahStrukturalViewModal.php
+|           userView.php
+|           userViewModal.php
+|           
++---dbase
+|       u6799722_rumahsakit_dev.sql
+|       rumahsakit2.sql
+|       
++---layout
+|       header.php
+|       
++---mechanism
+|   +---apps
+|   |   +---bantuan_sistem
+|   |   |       index.php
+|   |   |       
+|   |   +---buat_akun
+|   |   |       index.php
+|   |   |       
+|   |   +---daftar_kepanitiaan
+|   |   |   |   index.php
+|   |   |   |   
+|   |   |   \---edit_anggota
+|   |   |           index.php
+|   |   |           
+|   |   +---form_ikip
+|   |   |       index.php
+|   |   |       
+|   |   +---form_ikukp
+|   |   |       index.php
+|   |   |       
+|   |   +---konfigurasi_bobot
+|   |   |       index.php
+|   |   |       
+|   |   +---konfigurasi_poin
+|   |   |   |   index.php
+|   |   |   |   
+|   |   |   +---konfigurasi_poin_kepanitiaan_tim_kerja
+|   |   |   |       index.php
+|   |   |   |       
+|   |   |   +---konfigurasi_poin_kepegawaian
+|   |   |   |       index.php
+|   |   |   |       
+|   |   |   +---konfigurasi_poin_level_koordinasi
+|   |   |   |       index.php
+|   |   |   |       
+|   |   |   +---konfigurasi_poin_masa_kerja
+|   |   |   |       index.php
+|   |   |   |       
+|   |   |   +---konfigurasi_poin_pendidikan
+|   |   |   |       index.php
+|   |   |   |       
+|   |   |   +---konfigurasi_poin_resiko
+|   |   |   |       index.php
+|   |   |   |       
+|   |   |   +---konfigurasi_poin_sertifikasi
+|   |   |   |       index.php
+|   |   |   |       
+|   |   |   +---konfigurasi_poin_struktural
+|   |   |   |       index.php
+|   |   |   |       
+|   |   |   \---konfigurasi_poin_tingkat_emergensi
+|   |   |           index.php
+|   |   |           
+|   |   +---konfigurasi_sistem
+|   |   |       index.php
+|   |   |       
+|   |   +---maintenance_sistem
+|   |   |       index.php
+|   |   |       
+|   |   +---manajemen_kelompok
+|   |   |       index.php
+|   |   |       
+|   |   +---manajemen_pegawai
+|   |   |       index.php
+|   |   |       
+|   |   +---manajemen_penggajian
+|   |   |       index.php
+|   |   |       
+|   |   +---manajemen_perpajakan
+|   |   |       index.php
+|   |   |       
+|   |   +---manajemen_role
+|   |   |   |   index.php
+|   |   |   |   
+|   |   |   +---advanced_role
+|   |   |   |       index.php
+|   |   |   |       
+|   |   |   \---system_role
+|   |   |           index.php
+|   |   |           
+|   |   +---manajemen_rs
+|   |   |       index.php
+|   |   |       
+|   |   +---manajemen_user
+|   |   |       index.php
+|   |   |       
+|   |   +---satuan_kerja
+|   |   |       index.php
+|   |   |       
+|   |   \---tambah_pegawai
+|   |           index.php
+|   |           
+|   +---landing
+|   |       index.php
+|   |       
+|   \---takeoff
+|           index.php
+|           
++---nbproject
+|   |   project.properties
+|   |   project.xml
+|   |   
+|   \---private
+|           config.properties
+|           private.properties
+|           private.xml
+|           
+\---research
+        ageCounter.php
+        phpCalendar.php
+        
